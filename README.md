@@ -1,2 +1,0 @@
-# ok
-my to kommit
